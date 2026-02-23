@@ -97,6 +97,7 @@ WireGuard is a modern, high-performance VPN protocol. These tools help you deplo
 
 Forward proxy servers for web traffic filtering, caching, privacy, and traffic inspection.
 
+- [drsoft-oss/proxyrotator](https://github.com/drsoft-oss/proxyrotator) — Smart rotating HTTP proxy — load-balance and auto-rotate a pool of upstream HTTP/SOCKS5 proxies with zero-drop connection draining, latency prioritisation, domain pinning, and a built-in management API.
 - [squid-cache/squid](https://github.com/squid-cache/squid) — Full-featured web proxy cache supporting HTTP, HTTPS, FTP with extensive ACLs.
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) — Interactive HTTPS proxy for penetration testing, traffic inspection, and debugging.
 - [tinyproxy/tinyproxy](https://github.com/tinyproxy/tinyproxy) — Lightweight HTTP/HTTPS proxy for low-resource systems.
