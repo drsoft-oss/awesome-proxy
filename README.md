@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://www.anonymous-proxies.net?utm_source=github&utm_medium=banner&utm_campaign=awesome-proxy" target="_blank" rel="noopener noreferrer">
+    <img src="banner.svg" alt="proxybench banner" width="768" />
+  </a>
+</p>
+
 # Awesome Proxies [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > The most comprehensive, curated list of **proxy tools, libraries, servers, VPNs, and resources** for developers, security researchers, and privacy advocates.
