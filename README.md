@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://www.anonymous-proxies.net?utm_source=github&utm_medium=banner&utm_campaign=awesome-proxy" target="_blank" rel="noopener noreferrer">
+    <img src="banner.svg" alt="proxybench banner" width="768" />
+  </a>
+</p>
+
 # Awesome Proxies [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > The most comprehensive, curated list of **proxy tools, libraries, servers, VPNs, and resources** for developers, security researchers, and privacy advocates.
@@ -172,7 +178,7 @@ Frameworks and tools for web scraping that support proxy rotation — essential 
 
 Tools to test, validate, and benchmark proxy speed, anonymity, and geo-location.
 
-- [romeomihailus/proxybench](https://github.com/romeomihailus/proxybench) — Proxy checker and health monitor CLI — validate and benchmark HTTP, SOCKS5, and Shadowsocks proxies.
+- [drsoft-oss/proxybench](https://github.com/drsoft-oss/proxybench) — Proxy checker and health monitor CLI — validate and benchmark HTTP, SOCKS5, and Shadowsocks proxies.
 - [fate0/proxypool](https://github.com/fate0/proxypool) — Automated proxy pool with collection, validation, and a REST API.
 - [monosans/proxy-list](https://github.com/monosans/proxy-list) — Continuously updated proxy lists with built-in validation.
 
