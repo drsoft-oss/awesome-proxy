@@ -2,7 +2,7 @@
 
 > The most comprehensive, curated list of **proxy tools, libraries, servers, VPNs, and resources** for developers, security researchers, and privacy advocates.
 
-Whether you need **HTTP proxies**, **SOCKS5 proxies**, **Shadowsocks**, **Trojan proxies**, **WireGuard VPN**, or **censorship circumvention tools** — this list has you covered. Updated regularly by the community and the team at [anonymous-proxies.net](https://anonymous-proxies.net).
+Whether you need **HTTP proxies**, **SOCKS5 proxies**, **Shadowsocks**, **Trojan proxies**, **WireGuard VPN**, or **censorship circumvention tools** — this list has you covered. Updated regularly by the community and the team at [anonymous-proxies.net](https://anonymous-proxies.net?utm_source=github&utm_medium=link&utm_campaign=open-source).
 
 ---
 
@@ -34,7 +34,7 @@ Libraries for integrating proxy rotation, management, and connections into your 
 - [JaredLGillespie/proxyscrape](https://github.com/JaredLGillespie/proxyscrape) — Python library for retrieving free proxies (HTTP, HTTPS, SOCKS4, SOCKS5).
 - [snail007/goproxy](https://github.com/snail007/goproxy) — High-performance HTTP(S), SOCKS5, WebSocket proxy library in Go with chaining and encryption.
 
-> 💡 **Building with proxies?** [anonymous-proxies.net](https://anonymous-proxies.net) offers HTTP, SOCKS5, Shadowsocks, Trojan, and WireGuard proxies with API access for programmatic rotation.
+> 💡 **Building with proxies?** [anonymous-proxies.net](https://anonymous-proxies.net?utm_source=github&utm_medium=banner&utm_campaign=open-source) offers HTTP, SOCKS5, Shadowsocks, Trojan, and WireGuard proxies with API access for programmatic rotation.
 
 ---
 
@@ -66,7 +66,7 @@ Tools for bypassing internet restrictions, deep packet inspection (DPI), and the
 - [2dust/v2rayNG](https://github.com/2dust/v2rayNG) — Android client for V2Ray/Xray supporting VMess, VLESS, Shadowsocks, Trojan.
 - [proxysu/ProxySU](https://github.com/proxysu/ProxySU) — One-click Windows installer for Xray, V2Ray, Trojan, NaiveProxy, and more.
 
-> 🔒 **Need ready-to-use Trojan or Shadowsocks proxies?** [anonymous-proxies.net](https://anonymous-proxies.net) provides dedicated Trojan, Shadowsocks, and Amnezia VPN connections — no server setup required.
+> 🔒 **Need ready-to-use Trojan or Shadowsocks proxies?** [anonymous-proxies.net](https://anonymous-proxies.net?utm_source=github&utm_medium=banner&utm_campaign=open-source) provides dedicated Trojan, Shadowsocks, and Amnezia VPN connections — no server setup required.
 
 ---
 
@@ -164,7 +164,7 @@ Frameworks and tools for web scraping that support proxy rotation — essential 
 - [AmazingAng/proxy-pool](https://github.com/AmazingAng/proxy-pool) — Python proxy pool for web scraping with automated collection and validation.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) — Turn entire websites into LLM-ready markdown — handles proxies, JS rendering, and dynamic content.
 
-> 🕷️ **Scraping at scale?** Rotating residential and datacenter proxies prevent IP bans. [anonymous-proxies.net](https://anonymous-proxies.net) offers HTTP and SOCKS5 proxies in 100+ locations, optimized for scraping workloads.
+> 🕷️ **Scraping at scale?** Rotating residential and datacenter proxies prevent IP bans. [anonymous-proxies.net](https://anonymous-proxies.net?utm_source=github&utm_medium=banner&utm_campaign=open-source) offers HTTP and SOCKS5 proxies in 100+ locations, optimized for scraping workloads.
 
 ---
 
@@ -225,4 +225,4 @@ If you know a project that belongs here, [open an issue](../../issues/new) or su
 
 ---
 
-<sub>Maintained by the team at <a href="https://anonymous-proxies.net">anonymous-proxies.net</a> — HTTP, SOCKS5, Shadowsocks, Trojan, DNS & WireGuard proxies for developers.</sub>
+<sub>Maintained by the team at <a href="https://anonymous-proxies.net?utm_source=github&utm_medium=link&utm_campaign=open-source">anonymous-proxies.net</a> — HTTP, SOCKS5, Shadowsocks, Trojan, DNS & WireGuard proxies for developers.</sub>
