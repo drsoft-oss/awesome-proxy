@@ -122,6 +122,7 @@ SOCKS5 proxies handle any type of traffic (not just HTTP) and support authentica
 
 ## Reverse Proxies & Load Balancers
 
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) — Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [nginx/nginx](https://github.com/nginx/nginx) — High-performance HTTP server, reverse proxy, and load balancer.
 - [traefik/traefik](https://github.com/traefik/traefik) — Cloud-native reverse proxy with automatic service discovery for Docker/K8s.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) — Web server and reverse proxy with automatic HTTPS via Let's Encrypt.
