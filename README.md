@@ -153,6 +153,7 @@ DNS proxy servers for privacy, ad-blocking, and encrypted DNS resolution (DoH, D
 
 Desktop and mobile apps for managing proxy connections across multiple protocols.
 
+- [ClashX-Pro/ClashX](https://github.com/ClashX-Pro/ClashX) — Native macOS proxy client built on Clash with menu bar UI, TUN mode, and Apple Silicon support.
 - [Dreamacro/clash](https://github.com/Dreamacro/clash) — Rule-based tunneling proxy in Go: VMess, VLESS, Shadowsocks, Trojan, SOCKS5, HTTP.
 - [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) — Enhanced Clash kernel with TUIC, Hysteria2, VLESS Reality, and advanced routing.
 - [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) — Multi-platform proxy client on sing-box supporting all major protocols.
