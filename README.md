@@ -1,3 +1,4 @@
+
 <p align="center">
   <a href="https://www.anonymous-proxies.net?utm_source=github&utm_medium=banner&utm_campaign=awesome-proxy" target="_blank" rel="noopener noreferrer">
     <img src="banner.svg" alt="proxybench banner" width="768" />
@@ -85,6 +86,7 @@ WireGuard is a modern, high-performance VPN protocol. These tools help you deplo
 - [trailofbits/algo](https://github.com/trailofbits/algo) — Ansible scripts to set up a personal WireGuard and IPsec VPN in the cloud.
 - [pivpn/pivpn](https://github.com/pivpn/pivpn) — Simple OpenVPN and WireGuard installer for Raspberry Pi and Linux.
 - [angristan/wireguard-install](https://github.com/angristan/wireguard-install) — WireGuard VPN server one-click installer for Linux.
+- [bivlked/amneziawg-installer](https://github.com/bivlked/amneziawg-installer) — One-command AmneziaWG 2.0 VPN installer for Ubuntu and Debian with built-in DPI bypass.
 - [firezone/firezone](https://github.com/firezone/firezone) — Self-hosted WireGuard VPN platform with web UI and access management.
 - [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) — OpenVPN road warrior installer for Debian, Ubuntu, Fedora, CentOS, Arch.
 - [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) — IKEv2/IPsec VPN setup scripts for Ubuntu, Debian, CentOS.
