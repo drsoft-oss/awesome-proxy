@@ -36,7 +36,7 @@ Whether you need **HTTP proxies**, **SOCKS5 proxies**, **Shadowsocks**, **Trojan
 
 Libraries for integrating proxy rotation, management, and connections into your applications.
 
-- [drsoft-oss/proxymetrics](https://github.com/drsoft-oss/proxymetrics](https://anonymous-proxies.net/tools/proxymetrics/) - Know what's actually happening on your proxy stack
+- [drsoft-oss/proxymetrics](https://anonymous-proxies.net/tools/proxymetrics/) - Know what's actually happening on your proxy stack
 - [brozeph/simple-socks](https://github.com/brozeph/simple-socks) — Event-driven SOCKS5 proxy server library for Node.js.
 - [JaredLGillespie/proxyscrape](https://github.com/JaredLGillespie/proxyscrape) — Python library for retrieving free proxies (HTTP, HTTPS, SOCKS4, SOCKS5).
 - [snail007/goproxy](https://github.com/snail007/goproxy) — High-performance HTTP(S), SOCKS5, WebSocket proxy library in Go with chaining and encryption.
