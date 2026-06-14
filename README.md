@@ -161,6 +161,7 @@ Desktop and mobile apps for managing proxy connections across multiple protocols
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) — Cross-platform Clash desktop client built with Tauri + React.
 - [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) — Android proxy client for sing-box, V2Ray, Xray, Shadowsocks.
 - [Qv2ray/Qv2ray](https://github.com/Qv2ray/Qv2ray) — Cross-platform V2Ray GUI in Qt with plugin support.
+- [DRAK0NN/drkvl](https://github.com/DRAK0NN/drkvl) — CLI VLESS client for Linux with TUN mode, xhttp + Reality support, and interactive TUI.
 
 ---
 
