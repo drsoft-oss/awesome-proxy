@@ -196,6 +196,7 @@ Auto-updated lists and scrapers for free public proxies. Note: free proxies are 
 - [hookzof/socks5_list](https://github.com/hookzof/socks5_list) — Constantly updated SOCKS5 proxy list with validation.
 - [monosans/proxy-list](https://github.com/monosans/proxy-list) — HTTP, SOCKS4, SOCKS5 proxies from multiple sources.
 - [sakha1370/OpenRay](https://github.com/sakha1370/OpenRay) — Large-scale proxy collection and validation pipeline.
+- [proxy-free/free-proxy-list](https://github.com/proxy-free/free-proxy-list) — HTTP, SOCKS4 and SOCKS5 proxies refreshed every 30 minutes, connection tested before each commit, with country, anonymity and uptime in JSON.
 
 ---
 
