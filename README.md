@@ -40,6 +40,7 @@ Libraries for integrating proxy rotation, management, and connections into your 
 - [brozeph/simple-socks](https://github.com/brozeph/simple-socks) — Event-driven SOCKS5 proxy server library for Node.js.
 - [JaredLGillespie/proxyscrape](https://github.com/JaredLGillespie/proxyscrape) — Python library for retrieving free proxies (HTTP, HTTPS, SOCKS4, SOCKS5).
 - [snail007/goproxy](https://github.com/snail007/goproxy) — High-performance HTTP(S), SOCKS5, WebSocket proxy library in Go with chaining and encryption.
+- [Xavierfok/proxy-rotator](https://github.com/Xavierfok/proxy-rotator) — Python library that rotates a proxy list with health checks and retries, and changes a mobile proxy's IP via its rotation link, waiting out the cooldown and confirming the IP changed.
 
 > 💡 **Building with proxies?** [anonymous-proxies.net](https://anonymous-proxies.net?utm_source=github&utm_medium=link&utm_campaign=awesome-proxy) offers HTTP, SOCKS5, Shadowsocks, Trojan, and WireGuard proxies with API access for programmatic rotation.
 
