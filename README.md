@@ -194,6 +194,7 @@ Auto-updated lists and scrapers for free public proxies. Note: free proxies are 
 - [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List) — Auto-updated daily list of free HTTP, HTTPS, and SOCKS5 proxies.
 - [clarketm/proxy-list](https://github.com/clarketm/proxy-list) — Daily-updated free public proxy list.
 - [hookzof/socks5_list](https://github.com/hookzof/socks5_list) — Constantly updated SOCKS5 proxy list with validation.
+- [maximilianfeix/proxy-scraper](https://github.com/maximilianfeix/proxy-scraper) — Hourly free HTTP, SOCKS4 and SOCKS5 list from 700+ sources with honeypot and content-injection checks, plus a CLI, rotating proxy server and MCP server.
 - [monosans/proxy-list](https://github.com/monosans/proxy-list) — HTTP, SOCKS4, SOCKS5 proxies from multiple sources.
 - [sakha1370/OpenRay](https://github.com/sakha1370/OpenRay) — Large-scale proxy collection and validation pipeline.
 
