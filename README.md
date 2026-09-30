@@ -160,6 +160,7 @@ Desktop and mobile apps for managing proxy connections across multiple protocols
 - [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) — Web GUI for V2Ray/Xray/sing-box with subscription management.
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) — Cross-platform Clash desktop client built with Tauri + React.
 - [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) — Android proxy client for sing-box, V2Ray, Xray, Shadowsocks.
+- [Leadaxe/LxBox](https://github.com/Leadaxe/LxBox) — Android proxy client on a sing-box fork: VLESS Reality, XHTTP, AmneziaWG, Cloudflare WARP, Tailscale.
 - [Qv2ray/Qv2ray](https://github.com/Qv2ray/Qv2ray) — Cross-platform V2Ray GUI in Qt with plugin support.
 
 ---
