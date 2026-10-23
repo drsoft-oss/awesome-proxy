@@ -134,6 +134,7 @@ SOCKS5 proxies handle any type of traffic (not just HTTP) and support authentica
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) — Web UI for managing Nginx proxies with automatic SSL.
 - [flomesh-io/pipy](https://github.com/flomesh-io/pipy) — Programmable proxy for cloud, edge, and IoT.
 - [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) — Secure tunnels to expose local servers through NATs and firewalls.
+- [erpc/erpc](https://github.com/erpc/erpc) — Fault-tolerant JSON-RPC proxy for EVM and Solana with failover, retries, and caching.
 
 ---
 
