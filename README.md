@@ -172,8 +172,9 @@ Frameworks and tools for web scraping that support proxy rotation — essential 
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) — Fast, high-level Python web scraping framework with middleware for proxy rotation.
 - [AmazingAng/proxy-pool](https://github.com/AmazingAng/proxy-pool) — Python proxy pool for web scraping with automated collection and validation.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) — Turn entire websites into LLM-ready markdown — handles proxies, JS rendering, and dynamic content.
-
+- [Ashburn Proxies](https://ashburnproxies.com/?utm_source=github) — Residential, ISP, and rotating proxies built for real-world automation at scale, with clean IP reputation, advanced anti-bot bypass, instant IP rotation, and sticky sessions.
 > 🕷️ **Scraping at scale?** Rotating residential and datacenter proxies prevent IP bans. [anonymous-proxies.net](https://anonymous-proxies.net?utm_source=github&utm_medium=link&utm_campaign=awesome-proxy) offers HTTP and SOCKS5 proxies in 100+ locations, optimized for scraping workloads.
+
 
 ---
 
